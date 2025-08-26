@@ -7,3 +7,4 @@
 [{"name":"ensure-page","duration":68483,"timestamp":7964761459,"id":42,"parentId":3,"tags":{"inputPage":"/api/extract/route"},"startTime":1756138960481,"traceId":"b44e97d8fd4c0517"},{"name":"compile-path","duration":926894,"timestamp":7965649301,"id":44,"tags":{"trigger":"/_error"},"startTime":1756138961369,"traceId":"b44e97d8fd4c0517"}]
 [{"name":"next-dev","duration":5842505627,"timestamp":2365159405,"id":1,"tags":{},"startTime":1756133360879,"traceId":"b44e97d8fd4c0517"}]
 [{"name":"next-dev","duration":507269,"timestamp":34972411790,"id":1,"tags":{},"startTime":1756198221907,"traceId":"202b0d1bde6e9e9a"}]
+[{"name":"next-dev","duration":48633068,"timestamp":35205998130,"id":1,"tags":{},"startTime":1756198455493,"traceId":"06a35e1ffc599794"}]
